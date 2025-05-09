@@ -1,0 +1,89 @@
+category,title,icon,url,cid,desc,style,remark
+Media,Channel-[i],R.drawable.channeli,-,UC8NcXMG3A3f2aFQyGTpSNww,-,-,http://103.163.247.39:80/local_out/channeli/video.m3u8?token=At5F1MFZYnciB3
+Media,RTV,R.drawable.rtv,-,UC2P5Fd5g41Gtdqf0Uzh8Qaw,-,-,http://103.163.247.39:80/local_out/rtv/video.m3u8?token=At5F1MFZYnciB3
+Media,NTV,R.drawable.ntv,-,UC0V3IJCnr6ZNjB9t_GLhFFA,-,-,http://103.163.247.39:80/local_out/ntv/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
+Media,Tsports,R.drawable.tsports,https://livesports24.netlify.app/tsports,-,-,-,https://livesports24.netlify.app/toffee1
+Media,DEEPTO TV,R.drawable.deeptotv,https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8,-,-,-,https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1711/output/index.m3u8
+Media,MasrangaTv,masranga_tv,https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8,-,-,-,https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+Media,BanglaVision,banglavision,http://103.163.247.39:80/local_out/banglavision/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3,-,-,-,https://tvs2.aynaott.com/banglavision/index.m3u8
+Media,ANANDA TV,R.drawable.ananda_tv,http://103.163.247.39/local_out/anandatv/video.m3u8?token=At5F1MFZYnciB3,-,-,-,-
+Media,MovieBangla,moviebangla_tv,http://alvetv.com/mbtv/8080/index.m3u8,-,-,-,http://alvetv.com/moviebanglatv/8080/index.m3u8
+Media,Me Tv,me_tv,https://iptvbd.live/metv1080/1080.m3u8,-,-,-,-
+Media,MyTv,my_tv,https://mytvbangla.com/0.m3u8,-,-,-,-
+Media,GTV,gtv,http://isp.top10bhaluka.com/tv/stream.m3u8?id=GTV,-,-,-,-
+Media,DoyelTv,doyel_tv,https://doyel-admin.fillup.tech/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8,-,-,-,-
+Media,BoishakhiTv,boishakhi_tv,https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8,-,-,-,-
+News,Channel24,R.drawable.channel24,-,UCHLqIOMPk20w-6cFgkA90jw,-,-,https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/index.m3u8
+News,JamunaTV,R.drawable.jamunatv,-,UCDj9HHrRUzlsTuPQN0PHxjw,-,-,https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1701/output/index.m3u8
+News,SomoyTV,R.drawable.somoytv,-,UCxHoBXkY88Tb8z1Ssj6CWsQ,-,-,https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/index.m3u8
+News,DBC-TV,R.drawable.dbc_tv,-,UCUvXoiDEKI8VZJrr58g4VAw,-,-,-
+News,Ekattor TV,R.drawable.ekattor_tv,-,UCtqvtAVmad5zywaziN6CbfA,-,-,https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/index.m3u8
+News,Independent Tv,R.drawable.independent_tv,-,UCATUkaOHwO9EP_W87zCiPbA,-,-,https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/index.m3u8
+News,ATN,R.drawable.atn_tv,http://103.163.247.39/local_out/atnnews/video.m3u8?token=At5F1MFZYnciB3,-,-,-,https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/index.m3u8
+News,ETV,ekushey_tv,http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8,-,-,-,https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1723/output/index.m3u8
+News,Desh TV,R.drawable.desh_tv,-,UCqyt55f3byoK8rjgO0LBe4Q,-,-,-
+News,Republic Bangla,R.drawable.r_bangla_tv,https://www.yupptv.com/channels/republic-bangla/live,-,-,-,-
+News,TV9,R.drawable.tv9_bangla,https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8,-,-,-,UCHCR4UFsGwd_VcDa0-a4haw
+News,PeaceTV,peacetvbn,https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8,-,-,-,-
+News,ABP Annando,abp_annando,https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8,-,-,-,-
+News,CH9,ch9_tv,http://kst.moonplex.net:8080/CH6/index.m3u8,-,-,-,http://103.163.247.39:80/local_out/channel9/video.m3u8?token=At5F1MFZYnciB3
+Entertainment,SONY AATH,R.drawable.sony_aath,http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641/index.m3u8,-,-,-,-
+Entertainment,Zee Bangla,zee_bangla,http://kst.moonplex.net:8080/CH4/index.m3u8,-,-,-,http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
+Entertainment,Starজলসা,R.drawable.starjolsha,http://kst.moonplex.net:8080/CH3/index.m3u8,-,-,-,http://humsab.xyz/IN_STARJ/index.m3u8
+Entertainment,JolshaMovies,jolsha_movies,http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8,-,-,-,-
+Entertainment,Hum Tv,hum_tv,https://hum.tv/live/,-,-,-,-
+Entertainment,SonyMax,R.drawable.sonymax,http://kst.moonplex.net:8080/CH1/index.m3u8,-,-,-,-
+Entertainment,SonyMax2,sony_max2,http://humsab.xyz/IN_S_X2/tracks-v1a1/mono.m3u8,-,-,-,-
+Entertainment,Sony SAB,sony_sab,http://humsab.xyz/IN_SBTVG/tracks-v1a1/mono.m3u8,-,-,-,-
+Entertainment,SonyMovie,sony_movie,http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8,-,-,-,-
+Entertainment,EntertainBN,enter10bn,https://live-bangla.akamaized.net/liveabr/playlist.m3u8,-,-,-,-
+Entertainment,AmarDigitalTv,amardigi_tv,https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8,-,-,-,https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+Entertainment,GoldMines ,goldmines,https://cdn-2.pishow.tv/live/1459/master.m3u8,-,-,-,http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441441.m3u8
+Entertainment,BhojpuriTV,bhojpuri_tv,https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8,-,-,-,-
+Entertainment,Mon-TV,mon_tv,https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8,-,-,-,-
+Sports,Sports18,sports18,https://livesports24.netlify.app/toffee1,-,-,-,-
+Sports,Tsports,tsports,https://livesports24.netlify.app/tsports,-,-,-,https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
+http://kst.moonplex.net:8080/CH2/index.m3u8,,,,,,,
+Sports,GTV,gtv,http://isp.top10bhaluka.com/tv/stream.m3u8?id=GTV,-,-,-,-
+Sports,GEO SUPER,geo_super,http://humsab.xyz/tan16450/index.m3u8,-,-,-,-
+Sports,StarSports1,star_sports1,http://kst.moonplex.net:8080/CH10/index.m3u8,-,-,-,http://41.205.93.154/STARSPORTS1/index.m3u8
+Sports,Cricket Gold,cricket_gold,https://d382r3rgbxdixq.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CricketGold/418.m3u8,-,-,-,-
+Sports,WrestlingTv,wrestling_tv,https://d3mwqwqfak7y2q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ImpactWrestling-prod/hls/main.m3u8,-,-,-,-
+Fun_Carton,RongeenTv,rongeen_tv,https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8,-,-,-,-
+Fun_Carton,Funny,funny_tv,https://linear-12.frequency.stream/dist/stirr/12/hls/master/playlist.m3u8,-,-,-,-
+Music,Joo Music,joo_music,https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8,-,-,-,-
+Music,8x Music,eight_x_music,https://epiconvh.akamaized.net/live/showbox/master.m3u8,-,-,-,-
+Music,Mastii Tv,mastii_tv,https://sabliveyupp.akamaized.net/mastii/playlist.m3u8,-,-,-,-
+Entertainment,ZeeCinema,zee_cinema,http://watchindia.net:8880/live/40972/04523/787.m3u8,-,-,-,http://103.122.74.6:8888/hls/ZEE.CINEMA.HD.m3u8
+Sports,MatriBhumi Sports,matribhumi_tv,http://live.matribhumitv.com/matribhumi-sports/index.m3u8,-,-,-,https://live.matribhumitv.com/matribhumi-sports/tracks-v1a1/mono.ts.m3u8
+Sports,Sky Sports,tv,https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8,-,-,-,-
+Media,AlponaTv,tv,https://mtlivestream.com/hls-mtlive/aplive/index.m3u8,-,-,-,-
+Music,ShemaroTv,tv,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8,-,-,-,-
+Fun_Carton,NICKELODEON,tv,http://143.244.60.30/NICKELODEON/index.m3u8,-,-,-,-
+Entertainment,NatGEO,tv,http://212.102.60.231/National_Geographic/index.m3u8,-,-,-,-
+Music,Sun Bangla ,tv,http://103.122.74.6:8888/hls/SUN.BANGLA.HD.m3u8,-,-,-,-
+Entertainment,Discovery,discoverybn,http://kst.moonplex.net:8080/CH9/index.m3u8,-,-,-,-
+Entertainment,Sananda Tv,tv,https://live.sanonda.tv/sanonda/index.m3u8,-,-,-,-
+Coming-Soon,Ruposhi_Bangla,R.drawable.ruposhi_bangla,https://www.yupptv.com/channels/rupashi-bangla/live,-,-,-,-
+Coming-Soon,Colors Bangla,colors_bangla,http://103.122.74.6:8888/hls/COLORS.BANGLA.HD.m3u8,-,-,-,-
+Coming-Soon,Carton,R.drawable.carton_cn,-,-,-,-,-
+Coming-Soon,Kids-Tv,kids_ctv,https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8,-,-,-,-
+Coming-Soon,TenSports,R.drawable.tensports,https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8,-,-,-,-
+Coming-Soon,DurontoTv,duronto_tv,http://103.122.74.6:8888/hls/DURANTA.TV.HD.m3u8,-,-,-,-
+Coming-Soon,Deshi Tv,deshi_tv,https://deshitv.deshitv24.net/live/myStream/playlist.m3u8,-,-,-,-
+Coming-Soon,AnimalHD,animal_planet,http://103.122.74.6:8888/hls/ANIMAL.PLANET.HD.m3u8,-,-,-,-
+Media,BTV,tv,https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/master.m3u8,-,-,-,-
+Music,YRP,tv,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8,-,-,-,-
+Entertainment,SONY KAL,tv,https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8,-,-,-,-
+News,BBC,bbc_bn,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1,-,-,-,-
+Coming-Soon,ZeeAction,zee_action,http://45.148.145.57/IN_ZEAN/tracks-v1a1/mono.m3u8,-,-,-,-
+Coming-Soon,ZeeAnmol,zee_anmol,http://humsab.xyz/IN_ZEAN/tracks-v1a1/mono.m3u8,-,-,-,-
+Coming-Soon,Sony EN,R.drawable.sony_en,https://dai.google.com/ssai/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8,-,-,-,-
+Entertainment,TARA BANGLA ,tv,http://103.145.48.150:90/laosat24/taratv/index.m3u8,-,-,-,-
+Entertainment,DANGAL TV,tv,https://live-dangal.akamaized.net/liveabr/playlist.m3u8,-,-,-,-
+Fun_Carton,Pogo TV,tv,https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8,-,-,-,-
+Sports,Redbull Tv,tv,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8,-,-,-,-
+Entertainment,Bollywood HD,tv,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8,-,-,-,-
+Sports,IPL,tsports,https://livesports24.netlify.app/toffee1,-,-,-,-
+Sports,RS Live Tv,tv,http://rslivetv.wuaze.com,-,-,-,-
+Sports,Sports TV,tv,https://livesports24.netlify.app,-,-,-,-
