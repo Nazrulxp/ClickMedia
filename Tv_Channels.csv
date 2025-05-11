@@ -18,8 +18,7 @@ News,JamunaTV,R.drawable.jamunatv,-,UCN6sm8iHiPd0cnoUardDAnw,UCDj9HHrRUzlsTuPQN0
 News,SomoyTV,R.drawable.somoytv,-,UCxHoBXkY88Tb8z1Ssj6CWsQ,-,-,https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/index.m3u8
 News,DBC-TV,R.drawable.dbc_tv,-,UCUvXoiDEKI8VZJrr58g4VAw,-,-,https://dbcnews.tv/live
 News,Ekattor TV,R.drawable.ekattor_tv,-,UCtqvtAVmad5zywaziN6CbfA,-,-,https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/index.m3u8
-News,Independent Tv,R.drawable.independent_tv,https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/index.m3u8,-,-,-,https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/index.m3u8
-UCATUkaOHwO9EP_W87zCiPbA
+News,Independent Tv,R.drawable.independent_tv,https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/index.m3u8,-,-,-,UCATUkaOHwO9EP_W87zCiPbA
 News,ATN,R.drawable.atn_tv,https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/index.m3u8,-,-,-,https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/index.m3u8
 News,ETV,ekushey_tv,https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1723/output/index.m3u8,-,-,-,-
 News,Desh TV,R.drawable.desh_tv,-,UCqyt55f3byoK8rjgO0LBe4Q,-,-,-
