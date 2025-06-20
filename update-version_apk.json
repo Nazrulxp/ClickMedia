@@ -1,12 +1,12 @@
 {
   "version": "2.0",
-  "DataDate": "16/06/2025",
+  "DataDate": "20/06/2025",
   "downloadUrl": "https://github.com/Nazrulxp/ClickMedia/raw/refs/heads/main/ClickMedia_v2.0.apk",
   "spLink": "Please Click Update to Enjoy New Feature ",
   "releaseNotes": ["Performance Improvements.","Channel List Upgraded [New Channels]"],
-  "DataFiles": ["Tv_Channels.csv"],
+  "DataFiles": ["Tv_Channels.csv=Sports+Entertainment "],
   "showUpdateButton": true,
-  "showCancelButton": true,
+  "showCancelButton": false,
   "showcsvDownloadButton": true
 }
 
