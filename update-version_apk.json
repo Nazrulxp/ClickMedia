@@ -7,6 +7,6 @@
   "DataFiles": ["Tv_Channels.csv"],
   "showUpdateButton": true,
   "showCancelButton": false,
-  "showcsvDownloadButton": true,
+  "showcsvDownloadButton": true
 }
 
