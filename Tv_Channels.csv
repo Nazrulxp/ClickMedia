@@ -1,11 +1,11 @@
 category,title,icon,url,cid,desc,style,remark
 Media,Channel-[i],channeli,-,UCAz6rveBalVnE6qTmfQnvyQ,-,-,https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1723/output/index.m3u8
-Media,RTV,rtv,-,UC2P5Fd5g41Gtdqf0Uzh8Qaw,-,-,https://www.youtube.com/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw/live
+Media,RTV,rtv,-,UC2P5Fd5g41Gtdqf0Uzh8Qaw,-,-,-
 Media,NTV,ntv,-,UC0V3IJCnr6ZNjB9t_GLhFFA,-,-,https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/index.m3u8
 Media,T SPORTS,tsports,https://ddy6new.newkso.ru/ddy6/premium741/mono.m3u8,-,-,-,http://103.175.242.10:8080/tsports1/index.m3u8
 Media,DEEPTO TV,deepto_tv,https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8,-,-,-,https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1711/output/index.m3u8
 Media,MASRANGA TV,masranga_tv,https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8,-,https://maasranga.tv/live-streaming/fvp-3/#fvp_3,-,https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-Media,BanglaVision,banglavision,http://103.175.242.10:8080/banglavision/index.m3u8,UCA4y9g_GRdNrZLH_u5LLSdw,-,-,https://www.bvnews24.com/live/
+Media,BanglaVision,banglavision,-,UCA4y9g_GRdNrZLH_u5LLSdw,-,-,https://www.bvnews24.com/live/
 Media,ANANDA TV,ananda_tv,https://anandatv.tv/,-,🌏📡🚦Live-Telecast from Official TV Channel Website.,-,-
 Media,MovieBangla,moviebangla_tv,http://alvetv.com/moviebanglatv/8080/index.m3u8,,-,-,http://alvetv.com/mbtv/8080/index.m3u8
 Media,ME TV,me_tv,https://iptvbd.live/metv1080/1080.m3u8,-,-,-,-
