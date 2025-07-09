@@ -19,8 +19,8 @@ News,JamunaTV,jamunatv,-,UCN6sm8iHiPd0cnoUardDAnw,-,-,https://d1e7rcqq4o2ma.clou
 News,SomoyTV,somoytv,-,UCxHoBXkY88Tb8z1Ssj6CWsQ,-,-,https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/index.m3u8
 News,DBC-TV,dbc_tv,-,UCUvXoiDEKI8VZJrr58g4VAw,-,-,https://dbcnews.tv/live/
 News,Ekattor TV,ekattor_tv,-,UCtqvtAVmad5zywaziN6CbfA,-,-,https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/index.m3u8
-News,Independent Tv,independent_tv,https://www.youtube.com/channel/UCATUkaOHwO9EP_W87zCiPbA/live,-,-,UCATUkaOHwO9EP_W87zCiPbA,https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/index.m3u8
-News,ATN NEWS,atn_news,http://103.175.242.10:8080/atnnews/index.m3u8,-,-,-,https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/index.m3u8
+News,Independent Tv,independent_tv,-,UCATUkaOHwO9EP_W87zCiPbA,-,-,https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/index.m3u8
+News,ATN NEWS,atn_news,-,UC9Rgo0CrNyd7OWliLekqqGA,-,-,https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/index.m3u8
 News,Ekhon Tv,ekhon_tv,-,UCWVqdPTigfQ-cSNwG7O9MeA,-,-,-
 News,ETV,ekushey_tv,https://ekusheyserver.com/etvlivesn.m3u8,-,https://www.ekushey-tv.com/etvlive/,-,http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 News,Desh🌏 TV,desh_tv,-,UCqyt55f3byoK8rjgO0LBe4Q,-,-,-
