@@ -45,6 +45,8 @@ Entertainment,BhojpuriTV,bhojpuri_tv,https://live-bhojpuri.akamaized.net/liveabr
 Entertainment,Mon-TV,mon_tv,https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8,-,-,-,-
 Sports,Tsports,tsports,-,UC2t9imwIR7xlDfma3CmRKJQ,-,-,http://stvlive.net:8080/tsports1/index.m3u8
 Sports,GTV,gtv,http://stvlive.net:8080/gtv/index.m3u8,-,-,-,http://103.175.242.10:8080/gtv/tracks-v1a1/mono.m3u8
+Sports,TenSports,tensports,https://ddy6new.newkso.ru/ddy6/premium741/mono.m3u8,-,-,-,http://103.175.242.10:8080/tensports1/index.m3u8
+Sports,Sony Sports1,sonysports1,http://stvlive.net:8080/sonyten1/index.m3u8,-,-,-,https://ddy6new.newkso.ru/ddy6/premium741/mono.m3u8
 Sports,StarSports1,star_sports1,http://stvlive.net:8080/starsports1/tracks-v1a1/mono.m3u8,-,-,-,http://103.175.242.10:8080/starsports1/index.m3u8
 Sports,Cricket Gold,cricket_gold,https://d382r3rgbxdixq.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CricketGold/418.m3u8,-,-,-,-
 Sports,WrestlingTv,wrestling_tv,https://d3mwqwqfak7y2q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ImpactWrestling-prod/hls/main.m3u8,-,-,-,-
@@ -65,7 +67,6 @@ Coming-Soon,Ruposhi_Bangla,ruposhi_bangla,https://www.yupptv.com/channels/rupash
 Entertainment,Colors Bangla,colors_bangla,http://stvlive.net:8080/colorsbangla/index.m3u8,-,-,-,http://stream247.live:8080/colorsbangla/index.m3u8
 Fun_Carton,Carton,carton_cn,https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8,-,-,-,-
 Fun_Carton,Kids Creation ,kids_ctv,https://flc2.technohaat.com/kidscreation_test/tracks-v1a1/mono.m3u8,-,-,-,-
-Sports,TenSports,tensports,https://ddy6new.newkso.ru/ddy6/premium741/mono.m3u8,-,-,-,http://103.175.242.10:8080/tensports1/index.m3u8
 Coming-Soon,DurontoTv,duronto_tv,http://103.122.74.6:8888/hls/DURANTA.TV.HD.m3u8,-,-,-,-
 Media,Deshi Tv,deshi_tv,https://deshitv.deshitv24.net/live/myStream/playlist.m3u8,-,-,-,-
 Coming-Soon,AnimalHD,animal_planet,http://udigitalott.ridsys.in/riptv/live/stream90/index.m3u8,-,-,-,-
@@ -103,7 +104,6 @@ Media,A1 TV,a1tv,https://iptvbd.live/channela1/1080.m3u8,-,-,-,-
 Media,CHANNEL S,stv,https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8,-,-,-,-
 Media,PROBASHI TV,probashi_tv,http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8,-,-,-,-
 Entertainment,DRONE🚁TV,drone,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/440.m3u8,-,-,-,-
-Sports,Sony Sports1,sonysports1,http://stvlive.net:8080/sonyten1/index.m3u8,-,-,-,https://ddy6new.newkso.ru/ddy6/premium741/mono.m3u8
 Entertainment,Movies Action,movies_action,https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8,-,-,-,-
 Sports,WWE,wwe,https://dpv6ceilvhyrw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ufe851j0vqbg/playlist.m3u8,-,-,-,-
 Music,Big Magic,big_magic,https://live.drmlive-02.workers.dev/zee/0-9-bigmagic_1786965389.m3u8,-,-,-,-
