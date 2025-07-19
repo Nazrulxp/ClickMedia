@@ -6,7 +6,7 @@
   "releaseNotes": ["Performance Improvements.","Channel List Upgraded [New Channels]"],
   "DataFiles": ["Tv_Channels.csv"],
   "showUpdateButton": true,
-  "showCancelButton": false,
+  "showCancelButton": true,
   "showcsvDownloadButton": true
 }
 
