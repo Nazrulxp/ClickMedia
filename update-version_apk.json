@@ -2,7 +2,7 @@
   "version": "3.0",
   "DataDate": "19/07/2025",
   "downloadUrl": "https://github.com/Nazrulxp/ClickMedia/raw/refs/heads/main/ClickMedia_v3.0.apk",
-  "spLink": "Please Click Update to Enjoy New Feature ",
+  "spLink": "Please Click [Update] and wait to Complete",
   "releaseNotes": ["Performance Improvements.","Channel List Upgraded [New Channels]"],
   "DataFiles": ["Tv_Channels.csv"],
   "showUpdateButton": true,
