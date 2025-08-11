@@ -80,7 +80,7 @@ Music,Shemaro Gaane,shemaroo_tv,https://d35j504z0x2vu2.cloudfront.net/v1/master/
 Fun_Carton,NICKELODEON,nickelodeon,http://fl1.moveonjoy.com/NICKELODEON/index.m3u8,-,-,-,http://103.175.242.10:8080/nick/index.m3u8
 Coming-Soon,Ruposhi_Bangla,ruposhi_bangla,https://cdn-4.pishow.tv/live/1039/1039_2.m3u8,-,-,-,https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
 Entertainment,Colors Bangla,colors_bangla,http://stvlive.net:8080/colorsbangla/index.m3u8,-,-,-,http://stream247.live:8080/colorsbangla/index.m3u8
-Fun_Carton,Carton,carton_cn,https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8,-,-,-,-
+Fun_Carton,Carton,carton_cn,https://app.hughag.store/api/68b0f4e13e/playlist.m3u8,-,-,-,https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 Fun_Carton,Kids Creation ,kids_ctv,https://flc2.technohaat.com/kidscreation_test/tracks-v1a1/mono.m3u8,-,-,-,-
 Coming-Soon,DurontoTv,duronto_tv,http://103.122.74.6:8888/hls/DURANTA.TV.HD.m3u8,-,-,-,-
 Media,Deshi Tv,deshi_tv,https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshitv.stream/playlist.m3u8,-,-,-,https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
@@ -119,7 +119,7 @@ Entertainment,StarPlus,starplus,http://stvlive.net:8080/starplus/index.m3u8,-,-,
 Music,9XM,nine_xm,https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/9f1a3d57-4134-4f4c-95ea-2cb142ac63f8/0.m3u8,-,-,-,-
 Entertainment,Movies Now,moviesnow,http://103.175.242.10:8080/moviesnow/tracks-v1a1/mono.m3u8,-,-,-,http://103.175.242.10:8080/moviesnow/index.m3u8
 Music,B4U,b4u,https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8,-,-,-,-
-Fun_Carton,Carton Network ,carton_cn,http://103.175.242.10:8080/cartoonnetwork/index.m3u8,-,-,-,-
+Fun_Carton,Carton Network ,carton_cn,https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8,-,-,-,-
 News,PAKHI TV,pakhi_tv,-,UCO_uhQ1EFB9bwqnV6i7UHnw,-,-,-
 Media,VOKTA TV,vokta,https://103.121.61.218/tmp_hls/voktatv/index.m3u8,-,-,-,-
 Entertainment,My Time,my_time,https://mytime-tcl.amagi.tv/playlist.m3u8,-,-,-,-
