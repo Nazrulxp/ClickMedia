@@ -1,6 +1,6 @@
 {
   "version": "3.0",
-  "DataDate": "21/07/2025",
+  "DataDate": "29/09/2025",
   "downloadUrl": "https://github.com/Nazrulxp/ClickMedia/raw/refs/heads/main/ClickMedia_v3.0.apk",
   "spLink": "Please Click [Update] and wait to Complete",
   "releaseNotes": ["Performance Improvements.","Channel List Upgraded [New Channels]"],
@@ -9,4 +9,5 @@
   "showCancelButton": false,
   "showcsvDownloadButton": true
 }
+
 
