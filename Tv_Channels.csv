@@ -45,24 +45,24 @@ Entertainment,NatGEO,nat_geo,http://212.102.60.231/National_Geographic/index.m3u
 Entertainment,Sun Bangla ,sun_bangla,https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8,-,-,-,-
 Entertainment,Discovery,discoverybn,http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8,-,-,-,-
 Entertainment,Sananda Tv,sananda_tv,https://live.sanonda.tv/sanonda/index.m3u8,-,-,-,http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
-Entertainment,TARA BANGLA ,tara_bangla,http://103.145.48.150:90/laosat24/taratv/index.m3u8,-,-,-,-
+Entertainment,TARA BANGLA,tara_bangla,http://103.145.48.150:90/laosat24/taratv/index.m3u8,-,-,-,-
 Entertainment,DANGAL TV,dangal1,https://live-dangal.akamaized.net/liveabr/playlist.m3u8,-,-,-,-
 Entertainment,Bollywood HD,bollywood_tv,http://app.hughag.store/api/3547925ef0/playlist.m3u8,-,-,-,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 Entertainment,AKASH BANGLA,akash_aath,https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8,-,-,-,-
 Entertainment,DD BANGLA,dd_bangla,https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8,-,-,-,-
 Entertainment,WILD EARTH,wild_earth,https://wildearth-plex.amagi.tv/master.m3u8,-,-,-,-
-Entertainment,BANGLA +,bangla_plus,https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8,-,-,-,-
+Entertainment,BANGLA+,bangla_plus,https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8,-,-,-,-
 Entertainment,AmarDigitalTv,amardigi_tv,https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8,-,-,-,https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 Entertainment,BhojpuriTV,bhojpuri_tv,https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8,-,-,-,-
 Entertainment,Mon-TV,mon_tv,https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8,-,-,-,-
 Sports,Tsports,tsports,-,UC2t9imwIR7xlDfma3CmRKJQ,-,-,http://stvlive.net:8080/tsports1/index.m3u8
-Sports,GTV,gtv,http://filex.me:8080/live/444476/444476/52106.m3u8,-,-,-,http://103.175.242.10:8080/gtv/tracks-v1a1/mono.m3u8
+Sports,GTV,gtv,http://103.175.242.10:8080/gtv/tracks-v1a1/mono.m3u8,-,-,-,http://filex.me:8080/live/444476/444476/52106.m3u8
 Sports,TenSports,tensports,https://ddy6new.newkso.ru/ddy6/premium741/mono.m3u8,-,-,-,http://filex.me:8080/live/444476/444476/52106.m3u8
 Sports,Sony Sports1,sonysports1,http://app.hughag.store/api/762cf859a8/playlist.m3u8,-,-,-,https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/b53b4402c2d2d4966485a66d9126d02c.m3u8
 Sports,StarSports1,star_sports1,https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8,-,-,-,http://cool365.xyz:900/live/4160189881/DB4ACD54/187268.m3u8
 Sports,Sony Sports2,sonysports2,http://app.hughag.store/api/45dc1e0f41/playlist.m3u8,-,-,-,https://subrugopuciblchlvl6uqa666p23rig.happy-ending.site/3d03d2e1612c5769c713f8ee1f49d666.m3u8
 Sports,StarSports2,star_sports2,http://cool365.xyz:900/live/4160189881/DB4ACD54/378740.m3u8,-,-,-,-
-Sports,WILLOW SPORTS,willow_sports,http://cool365.xyz:900/live/4160189881/DB4ACD54/401242182.m3u8,-,-,-,https://fl3.moveonjoy.com/WILLOW_CRICKET/index.m3u8
+Sports,WILLOW SPORTS,willow_sports,https://fl25.moveonjoy.com/WILLOW_CRICKET/index.m3u8,-,-,-,https://fl3.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 Sports,Cricket Gold,cricket_gold,https://d382r3rgbxdixq.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CricketGold/418.m3u8,-,-,-,-
 Sports,BEIN SPORT1,beinsp1,http://125x.org:8080/bn1hd/tracks-v1a1/mono.m3u8,-,-,-,-
 Sports,Ten Cricket,tensports,http://app.hughag.store/api/6b9c461155/playlist.m3u8,-,-,-,-
