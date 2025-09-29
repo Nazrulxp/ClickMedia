@@ -5,10 +5,11 @@
   "spLink": "Please Click [Update] and wait to Complete",
   "releaseNotes": ["✅FIXED: T-SPORTS, 🏏WiLLOW, BTV, GTV"],
   "DataFiles": ["Tv_Channels.csv"],
-  "showUpdateButton": "false",
+  "showUpdateButton": false,
   "showCancelButton": "false",
   "showcsvDownloadButton": "true"
 }
+
 
 
 
