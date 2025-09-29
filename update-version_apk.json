@@ -3,12 +3,13 @@
   "DataDate": "29/09/2025",
   "downloadUrl": "https://github.com/Nazrulxp/ClickMedia/raw/refs/heads/main/ClickMedia_v3.0.apk",
   "spLink": "Please Click [Update] and wait to Complete",
-  "releaseNotes": ["🏏Willow_Cricket, BTV, GTV are Working"],
+  "releaseNotes": ["T-SPORTS, 🏏Willow_Cricket, BTV, GTV are Working"],
   "DataFiles": ["Tv_Channels.csv"],
   "showUpdateButton": true,
   "showCancelButton": false,
   "showcsvDownloadButton": true
 }
+
 
 
 
