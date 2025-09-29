@@ -6,9 +6,10 @@
   "releaseNotes": ["✅FIXED: T-SPORTS, 🏏WiLLOW, BTV, GTV"],
   "DataFiles": ["Tv_Channels.csv"],
   "showUpdateButton": false,
-  "showCancelButton": "false",
-  "showcsvDownloadButton": "true"
+  "showCancelButton": false,
+  "showcsvDownloadButton": true
 }
+
 
 
 
