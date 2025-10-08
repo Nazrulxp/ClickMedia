@@ -3,12 +3,13 @@
   "DataDate": "08/10/2025",
   "downloadUrl": "https://github.com/Nazrulxp/ClickMedia/raw/refs/heads/main/ClickMedia_v3.0.apk",
   "spLink": "Please Click [Update] and wait to Complete",
-  "releaseNotes": ["💠: T-SPORTS, 🏏WiLLOW, BTV, GTV"],
+  "releaseNotes": ["💠: T-SPORTS,GTV,Toffee_Channels"],
   "DataFiles": ["Tv_Channels.csv"],
   "showUpdateButton":true,
   "showCancelButton":false,
   "showcsvDownloadButton":true
 }
+
 
 
 
