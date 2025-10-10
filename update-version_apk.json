@@ -1,12 +1,13 @@
 {
   "version": "3.0",
-  "DataDate": "08/10/2025",
+  "DataDate": "09/10/2025",
   "downloadUrl": "https://github.com/Nazrulxp/ClickMedia/raw/refs/heads/main/ClickMedia_v3.0.apk",
   "spLink": "Please Click [Update] and wait to Complete",
-  "releaseNotes": ["💠: T-SPORTS,GTV,🛰️Toffee_Channels"],
+  "releaseNotes": ["⚠️Server is busy. Try Later"],
   "DataFiles": ["Tv_Channels.csv"],
   "showUpdateButton":true,
   "showCancelButton":false,
-  "showcsvDownloadButton":true
+  "showcsvDownloadButton":false
 }
+
 
