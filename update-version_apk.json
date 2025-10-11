@@ -1,19 +1,11 @@
 {
   "version": "3.0",
-  "DataDate": "09/10/2025",
+  "DataDate": "10/10/2025",
   "downloadUrl": "https://github.com/Nazrulxp/ClickMedia/raw/refs/heads/main/ClickMedia_v3.0.apk",
   "spLink": "Please Click [Update] and wait to Complete",
-  "releaseNotes": ["⚠️Server is busy.🛰️সার্ভারের সমস্যার কারণে আপাতত IPTV বন্ধ আছে।","⏰১১ অক্টোবরের মধ্যেই সার্ভার চালু করা হবে।🔻ধন্যবাদ সবাইকে"],
+  "releaseNotes": ["Now Server is 🛰️OK","❗কোন চ্যানেল না চললে লাল প্লেবাটনে ক্লিক করুন"],
   "DataFiles": ["Tv_Channels.csv"],
   "showUpdateButton":true,
   "showCancelButton":false,
-  "showcsvDownloadButton":false
+  "showcsvDownloadButton":true
 }
-
-
-
-
-
-
-
-
