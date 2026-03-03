@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "DataDate": "19/12/2025",
-  "downloadUrl": "https://github.com/Nazrulxp/ClickMedia/raw/refs/heads/main/ClickMedia_v3.0.apk",
+  "downloadUrl": "https://github.com/Nazrulxp/ClickMedia/raw/refs/heads/main/ClickMedia_v2.0.apk",
   "spLink": "Please Click [Update] and wait to Complete",
   "releaseNotes": ["Now Server is 🛰️OK.[Update] করুন।"],
   "DataFiles": ["Tv_Channels.csv"],
@@ -9,7 +9,3 @@
   "showCancelButton":false,
   "showcsvDownloadButton":true
 }
-
-
-
-
