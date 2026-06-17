@@ -55,7 +55,7 @@ Entertainment,BANGLA+,bangla_plus,https://live-stream.utkalbongo.com/hls/liveban
 Entertainment,AmarDigitalTv,amardigi_tv,https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8,-,-,-,https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 Entertainment,BhojpuriTV,bhojpuri_tv,https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8,-,-,-,-
 Entertainment,Mon-TV,mon_tv,https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8,-,-,-,-
-Sports,T SPORTS,tsports,http://113.21.231.219:789/Tsports/embed.html,UC2t9imwIR7xlDfma3CmRKJQ,-,https://cdn.bdixtv24.vip/tsports/index.m3u8,https://tvsen7.aynaott.com/tsportsfhd/index.m3u8
+Sports,T SPORTS,tsports,http://113.21.231.219:789/Tsports/index.m3u8,-,-,https://cdn.bdixtv24.vip/tsports/index.m3u8,http://113.21.231.219:789/Tsports/embed.html
 Sports,GTV,gtv,https://tvsen6.aynaott.com/gtvhdforgame/index.m3u8,-,-,-,http://103.175.242.10:8080/gtv/tracks-v1a1/mono.m3u8
 Sports,TenSports,tensports,https://xfireflix.fun/file/opplex/stream.m3u8/?id=167568&e=.m3u8,-,-,-,http://filex.me:8080/live/444476/444476/52106.m3u8
 Sports,Sony Sports1,sonysports1,https://tvsen7.aynaott.com/sspts1/index.m3u8,-,-,-,http://stvlive.net:8080/sonyten1/index.m3u8
