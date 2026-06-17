@@ -2,7 +2,7 @@ category,title,icon,url,cid,desc,style,remark
 Media,Channel-[i],channeli,https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8,UCAz6rveBalVnE6qTmfQnvyQ,-,-,https://tvsen6.aynaott.com/channeli/index.m3u8
 Media,RTV,rtv,https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8,UC2P5Fd5g41Gtdqf0Uzh8Qaw,-,,https://tvsen6.aynaott.com/rtv/tracks-v1a1/mono.ts.m3u8
 Media,NTV,ntv,https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8,UC0V3IJCnr6ZNjB9t_GLhFFA,-,-,https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
-Media,T SPORTS,tsports,http://113.21.231.219:789/Tsports/embed.html,-,-,https://cdn.bdixtv24.vip/tsports/index.m3u8,http://116.204.149.16/t_sports/index.m3u8
+Media,T SPORTS,tsports,http://113.21.231.219:789/Tsports/index.m3u8,-,-,https://cdn.bdixtv24.vip/tsports/index.m3u8,http://113.21.231.219:789/Tsports/embed.html
 Media,DEEPTO TV,deepto_tv,https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8,-,-,-,https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 Media,MASRANGA TV,masranga_tv,https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8,-,https://maasranga.tv/live-streaming/fvp-3/#fvp_3,https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8,https://tvsen5.aynaott.com/tK2BNvT68fHZ/index.m3u8
 Media,BanglaVision,banglavision,https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8,UCA4y9g_GRdNrZLH_u5LLSdw,-,https://www.bvnews24.com/live/,https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
